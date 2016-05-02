@@ -1,0 +1,2 @@
+. localpython/bin/activate
+  exec python externalPlayer/proxyDealer.py
